@@ -1,3 +1,1 @@
-Esta es la primera versión.
-Esta es la segunda versión.
-Se corrige la segunda versión, ya que era erronea. 
+Esta es la primera versión
